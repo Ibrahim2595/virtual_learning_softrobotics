@@ -1,0 +1,32 @@
+{
+    "arm_bent_straighten": {
+        "available_angles": {
+            "right_arm": [0, 90]
+        },
+        "illustration":{
+            "anchors": ["right_wrist" , "right_elbow"],
+            "circle_center": "right_elbow",
+            "circle_direction": "down",
+            "arrow_direction": "right",
+            "arrow_angle": 90
+        },
+        "ports": [1,0,0,0,0],
+        "command": "s",
+        "inflate_duration": 10000
+    },
+    "arm_down_raise": {
+        "available_angles": {
+            "right_shoulder": [0, 45]
+        },
+        "illustration":{
+            "anchors": ["right_elbow", "right_shoulder"] ,
+            "circle_center": "right_shoulder",
+            "circle_direction": "up",
+            "arrow_direction":  "right",
+            "arrow_angle": 90
+        },
+        "ports": [0,1,1,0,0],
+        "command": "r",
+        "inflate_duration": 10000
+    }
+}
