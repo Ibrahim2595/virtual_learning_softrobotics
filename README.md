@@ -14,4 +14,12 @@ _Click below to play the project video_
 
 ![Iris](Iris3.gif)
 
+![Iris](Iris4.gif)
+
+![Iris](Iris5.gif)
+
+![Iris](Iris6.gif)
+  
+For more information on the project, visit: [https://ibrahimibrahim.works/iris.html](https://ibrahimibrahim.works/iris.html).  
+
 
